@@ -6,7 +6,7 @@ Currently developing my technical knowledge and practical skills in IT Infrastru
 ## Techical Learning Areas
 - IT Support & Troubleshooting 
 - Networking & Infrastructure
-- Linux Administrators 
+- Linux Administration
 - Cloud Computing (AWS & Azure)
 - Phyton & Automation
 ## Certification & Learning
